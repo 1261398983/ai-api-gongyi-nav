@@ -1,7 +1,7 @@
 {
   "title": "AI API 公益站导航",
   "description": "收录 GPT、Claude、DeepSeek、Gemini、GLM、MiniMax、Codex、New API 等模型接口入口，适合编程、酒馆、龙虾和免费额度检索。",
-  "updated": "2026-08-19",
+  "updated": "2026-09-01",
   "keywords": [
     "ai api",
     "AI API",
@@ -617,6 +617,18 @@
       ],
       "note": "AFF：https://sudoflow.top/sign-up?aff=WLW8 注册：QQ邮箱注册 倍率：0.065x的gpt 邀请：注册送7 刀",
       "added_date": "2026-08-19"
+    },
+    {
+      "index": 52,
+      "name": "New API",
+      "url": "https://xxs.l.cd/sign-up?aff=RhO4",
+      "domain": "xxs.l.cd",
+      "tags": [
+        "注册赠送",
+        "DeepSeek"
+      ],
+      "note": "注册送 50，只有 DeepSeek 可用",
+      "added_date": "2026-09-01"
     }
   ]
 }

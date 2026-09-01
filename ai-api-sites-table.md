@@ -2,7 +2,7 @@
 
 > 收录 GPT、Claude、DeepSeek、Gemini、GLM、MiniMax、Codex、New API 等模型接口入口，适合编程、酒馆、龙虾和免费额度检索。
 
-更新日期：2026-08-19
+更新日期：2026-09-01
 
 这里整理可用于编程、酒馆、龙虾和日常模型调用的 AI API 公益站与中转站入口，重点覆盖 GPT、Claude、DeepSeek、Gemini、GLM、MiniMax、Codex 等常见模型。
 
@@ -55,3 +55,4 @@
 | 49 | straitapi | [straitapi](https://straitapi.com/sign-up?aff=WU5M) | Claude; GPT | 注册即到账 $2：通过邀请链接 + QQ邮箱注册，双方立刻各得 $2 额度！（⚠️必须使用QQ邮箱） 首充无门槛送 $3：充值 1 元也算首充！立得 $3 美金调用额度。 0.08X GPT 0.15X CLAUDE | 2026-08-16 |
 | 50 | ai.alsl.xyz | [ai.alsl.xyz](https://ai.alsl.xyz/register?aff=GP6NPUZHHEW8) | GPT | 注册送10刀新人体验gpt | 2026-08-17 |
 | 51 | sudoflow | [sudoflow](https://sudoflow.top/sign-up?aff=WLW8) | GPT | AFF：https://sudoflow.top/sign-up?aff=WLW8 注册：QQ邮箱注册 倍率：0.065x的gpt 邀请：注册送7 刀 | 2026-08-19 |
+| 52 | New API | [New API](https://xxs.l.cd/sign-up?aff=RhO4) | 注册赠送; DeepSeek | 注册送 50，只有 DeepSeek 可用 | 2026-09-01 |
